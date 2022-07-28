@@ -2,6 +2,8 @@
 
 Simple App created as a training exercise of fetching data from an api and displaying it.
 
+[Try it live](https://pokemon.brunodeilhot.dev)
+
 Main concept:
   - Fetch a pokemon list from PokeApi
   - Display 25 pokemons with a "Load more pokemon" button which will add another 25
